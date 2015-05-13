@@ -1,7 +1,8 @@
 # InMyPants
 The Chrome Extension that won 3rd place at the Boulder Startup Week Hackfest
+<br>Adds "in my pants" to the end of every sentence in your twitter feed.
 
-To install the extension:
+<br>To install the extension:
 <br>1) Open the chrome browser
 <br>2) Navigate to chrome://extensions
 <br>3) In the upper left click "Load unpacked extension"
