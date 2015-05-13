@@ -1,0 +1,22 @@
+{
+  "name": "In My Pants",
+  "description": "Makes your twitter feed funnier by adding \"in my pants\" to the end of every sentence.",
+  "version": "1.0.0",
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "browser_action": {
+    "default_title": "In My Pants",
+    "default_icon": "pants16.png"
+  },
+  "icons": {
+    "48": "pants48.png",
+    "128": "pants128.png"
+  },
+  "manifest_version": 2
+}
